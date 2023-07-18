@@ -1,0 +1,71 @@
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.csprojResolveAssemblyReference.cache
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Supreme_Mobile.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Supreme_Mobile.pdb
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Antlr3.Runtime.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Dapper.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\EntityFramework.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Newtonsoft.Json.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Net.Http.Formatting.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Helpers.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.WebHost.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Mvc.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Optimization.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Providers.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Razor.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Razor.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\WebGrease.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Dapper.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\EntityFramework.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\Newtonsoft.Json.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Net.Http.Formatting.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Helpers.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.WebHost.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Mvc.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Razor.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Razor.xml
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.dll
+C:\Users\BOSS\Dropbox\OPTIMUS\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.pdb
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Supreme_Mobile.dll.config
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Supreme_Mobile.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Supreme_Mobile.pdb
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Antlr3.Runtime.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Dapper.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\EntityFramework.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Newtonsoft.Json.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Net.Http.Formatting.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Helpers.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.WebHost.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Mvc.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Optimization.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Providers.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Razor.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Razor.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\WebGrease.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Dapper.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\EntityFramework.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\Newtonsoft.Json.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Net.Http.Formatting.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Helpers.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Http.WebHost.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Mvc.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.Razor.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\bin\System.Web.WebPages.Razor.xml
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.csproj.CoreCompileInputs.cache
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.csproj.CopyComplete
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.dll
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.pdb
+C:\Users\joe.mureithi\source\repos\Important Files\Supreme_Mobile\Supreme_Mobile\obj\Debug\Supreme_Mobile.csproj.AssemblyReference.cache
