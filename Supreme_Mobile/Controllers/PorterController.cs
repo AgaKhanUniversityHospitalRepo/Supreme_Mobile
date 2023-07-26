@@ -7,6 +7,7 @@ using Supreme_Mobile.Models;
 using Dapper;
 using System.Security.Cryptography;
 using System.Text;
+using System.DirectoryServices.AccountManagement;
 
 namespace Supreme_Mobile.Controllers
 {
@@ -18,7 +19,16 @@ namespace Supreme_Mobile.Controllers
 
         System.Data.IDbConnection _db = GeneralService.DapperConnection();
 
-        [HttpPost]
+        public bool AuthenticateUser(string username, string password)
+        {
+            bool IsValid = false;
+            using (PrincipalContext aContext = new PrincipalContext(ContextType.Domain))
+                IsValid = aContext.ValidateCredentials(username, password);
+
+            return IsValid;
+        }
+
+            [HttpPost]
         public JsonResult PorterLogin(MyPortersModel Tokenmodel)
         {
             try
